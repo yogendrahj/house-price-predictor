@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/AI_Platform_Engineering/code/house-price-predictor/notebooks/mlruns/0/2969d229139a42fd911e6396b3b68f6b/artifacts
+end_time: 1777911064568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2969d229139a42fd911e6396b3b68f6b
+run_name: model_comparison
+run_uuid: 2969d229139a42fd911e6396b3b68f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777911064485
+status: 4
+tags: []
+user_id: yogen
