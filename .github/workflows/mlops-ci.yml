@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  workflow:
+  data-processing-and-model-training:
     runs-on: ubuntu-latest
 
     steps:
